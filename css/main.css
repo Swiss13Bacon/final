@@ -1,0 +1,29 @@
+body {
+  background-image: url(http://rs1269.pbsrc.com/albums/jj588/CutePixelIcons/Cute%20Pixel%20Icons/onigiri_icon_by_plasticumbrella-d3hmdqu.gif~c200);
+}
+
+#header {
+  background-color: #F980D8;
+}
+
+#navagation {
+  background-color: #83E09F;
+  padding: 20px;
+}
+
+div div a {
+  text-decoration: none;
+  padding: 20px;
+}
+
+#header h1, h2 {
+  margin: 20px;
+}
+
+#contact {
+  background-color:#A094FF;
+}
+
+ul {
+  list-style-image:url('http://i903.photobucket.com/albums/ac233/SuperSwordChucks/MrSaturnsmall.gif');
+}
