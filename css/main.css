@@ -11,19 +11,77 @@ body {
   padding: 20px;
 }
 
-div div a {
-  text-decoration: none;
-  padding: 20px;
+#navagation a {
+  color: black;
 }
 
-#header h1, h2 {
+#navagation a:hover {
+  color: #F980D8;
+  transition: color 1s;
+}
+
+div div a {
+  text-decoration: none;
+  padding-right: 20px;
+}
+
+#header h1,
+h2,
+h3 {
   margin: 20px;
+  width: 500px;
 }
 
 #contact {
-  background-color:#A094FF;
+  margin-top: 10px;
+  background-color: #A094FF;
+  clear: both;
 }
 
-ul {
-  list-style-image:url('http://i903.photobucket.com/albums/ac233/SuperSwordChucks/MrSaturnsmall.gif');
+#contact p {
+  margin-left: 20px;
 }
+
+#contact ul {
+  list-style-image: url('http://i903.photobucket.com/albums/ac233/SuperSwordChucks/MrSaturnsmall.gif');
+}
+
+#sales {
+  float: left;
+  margin:8px;
+  padding:8px;
+  background-color:#6CD1E5;
+}
+
+#manga {
+  float: left;
+  margin:8px;
+  padding:8px;
+  background-color:#6CD1E5;
+}
+
+#pocky {
+  float: left;
+  margin:8px;
+  padding:8px;
+  background-color:#6CD1E5;
+}
+#h2 {
+  margin-top:10px;
+  padding:5px;
+  background-color:#FFFCA3;
+}
+img {
+  margin-left: 20px;
+}
+#footer {
+  background-color:#83E09F;
+}
+#footer ul {
+  list-style-image:url('http://rpg-directory.org/uploads/awards/bronze_iconic.gif')
+}
+#footer a {
+  color:black;
+}
+
+/*http://rpg-directory.org/uploads/awards/bronze_iconic.gif*/
